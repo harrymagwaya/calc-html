@@ -1,0 +1,29 @@
+table {
+    border: 6px solid;
+    border-color: burlywood;
+    border-collapse: collapse;
+    width: 400px;
+    height: 500px;
+
+
+}
+
+thead, tfoot{
+    border: 4px solid;
+    padding-bottom: 70px;
+    
+}
+
+
+
+tbody{
+    border: 3px; 
+    background-color: #e4f0f5;   
+}
+
+
+th{
+    border: 2px;
+    border-radius: 800px;
+    border-width: 300px;
+}
